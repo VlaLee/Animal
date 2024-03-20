@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\vladi\Documents\Inheritance\main.cpp(45,42): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\vladi\Documents\Inheritance\main.cpp(64,41): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\vladi\Documents\Inheritance\main.cpp(161,23): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\vladi\Documents\Inheritance\main.cpp(207,42): warning C4305: аргумент: усечение из "double" в "float"
+  Inheritance.vcxproj -> C:\Users\vladi\Documents\Inheritance\x64\Debug\Inheritance.exe
